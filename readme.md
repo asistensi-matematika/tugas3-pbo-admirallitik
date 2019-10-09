@@ -1,8 +1,8 @@
 # TUGAS 3 ASISTENSI PBO - Jumat, 4 Oktober 2019
 
-NAMA: `isi nama disini`
+NAMA: Admiral Nelson S. A. Litik
 
-NRP: `isi nrp disini`
+NRP: 06111840000086
 
 ## Deskripsi Soal
 Buat class **LinearEquation** untuk sistem persamaan linear 2x2:
@@ -37,12 +37,12 @@ Karena penyebut nya 0, maka tidak memiliki solusi.
 ## Soal
 Input 	: 12 5 13 0 12 7
 
-Output	: ...
+Output	: x = 0.5384615384615384, y = 1.1076923076923078
 
 
 Input 	: -18 9 10,5 11 0 0
 
-Output	: ...
+Output	: x = -0.0, y = 0.0
 
 
 ### 1 extra mile
