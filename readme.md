@@ -51,7 +51,8 @@ soal opsional, tapi selesaikan semua soal di atas terlebih dahulu
 ![](/img/3.png)
 
 ## Screenshot hasil
-masukkan screenshot output disini
+<img width="799" alt="Asis4_PersLinear1" src="https://user-images.githubusercontent.com/49511318/66452457-b8e65500-ea8a-11e9-996b-d544b4a4cc37.PNG">
+<img width="546" alt="Asis4_PersLinear2" src="https://user-images.githubusercontent.com/49511318/66452461-bc79dc00-ea8a-11e9-95d6-bbffb00ac63b.PNG">
 
 ## Upload
 upload seluruh folder project java-nya ke repository ini
